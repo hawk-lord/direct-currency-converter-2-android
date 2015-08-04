@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/direct-currency-converter.iml" filepath="$PROJECT_DIR$/.idea/direct-currency-converter.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/Add-OnSDK/direct-currency-converter-2-fennec/.idea/direct-currency-converter-2-fennec.iml" filepath="$USER_HOME$/WebstormProjects/Add-OnSDK/direct-currency-converter-2-fennec/.idea/direct-currency-converter-2-fennec.iml" />
     </modules>
   </component>
 </project>
