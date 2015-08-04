@@ -1,16 +1,15 @@
+Conversion state from the program state.
 
-
-Settings:
-new help text.
+// DONE Settings: new help text.
 Currencies own form? foldout?
-Support drag and drop, and ordering.
+// DONE Support drag and drop, and ordering.
 
 Submenu with toggle, settings, test tab
-Text as labels in menu!
+// DONE Text as labels in menu!
 
-Touch-punch copyright
+// DONE Touch-punch copyright
 
-Error message from touch-punch,
+// DONE Error message from touch-punch,
 fixed by using unsafeWindow, but then initMouseEvent is deprecated
 22:16:44.907 TypeError: Argument 4 of MouseEvent.initMouseEvent does not implement interface Window.
 jquery.ui.touch-punch.js:44:0
@@ -32,7 +31,6 @@ Toggle with icon in Url field?
 
 Better CSS?
 
-Changes in currency names.
 
 Reintegrate code with main repository.
 
